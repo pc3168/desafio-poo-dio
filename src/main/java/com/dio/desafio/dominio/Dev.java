@@ -1,4 +1,4 @@
-package br.com.dio.desafio.dominio;
+package com.dio.desafio.dominio;
 
 import java.util.*;
 
